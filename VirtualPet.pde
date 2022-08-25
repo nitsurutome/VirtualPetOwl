@@ -6,8 +6,6 @@ void setup(){
 }
 void draw(){
   //more of your code here
-size(400,400);
-background(0,0,0);
 noStroke();
 //stars
 fill(255,218,8);
